@@ -8,6 +8,8 @@ The NASA GSFC Data Science Group (606.3) ([nasa-nccs-hpda](https://github.com/na
 ## Table of Contents
 1. [Tutorials](#Tutorials)
 2. [Operations and Tools](#Operations-and-Tools)
+3. [Vegetation Structure](#Vegetation-Structure)
+4. [Land Cover Classification](#Land-Cover-Classification)
 
 ## Tutorials
 
