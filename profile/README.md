@@ -9,3 +9,18 @@ The NASA GSFC Data Science Group (606.3) ([nasa-nccs-hpda](https://github.com/na
 
 - [EVHR](https://github.com/nasa-nccs-hpda/evhr)
 
+## Tutorials
+
+- [ILAB Jupyter Notebooks](https://github.com/nasa-nccs-hpda/ILAB_JupNotebooks)
+- [ARSET Tutorials](https://github.com/NASAARSET/ARSET_ML_Fundamentals)
+
+## Vegetation Structure
+
+- [ABoVE Shrubs](https://github.com/nasa-nccs-hpda/above-shrubs)
+
+## Land Cover Classification
+
+- [Senegal LCLUC](https://github.com/nasa-nccs-hpda/senegal-lcluc-tensorflow)
+- [Ethiopia LCLUC](https://github.com/nasa-nccs-hpda/ethiopia-lcluc-tensorflow)
+
+
