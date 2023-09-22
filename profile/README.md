@@ -5,14 +5,21 @@
 
 The NASA GSFC Data Science Group (606.3) ([nasa-nccs-hpda](https://github.com/nasa-nccs-hpda)) GitHub organization hosts a collection of open-source geospatial software and science projects. These projects are developed under the NASA GSFC Data Science Group by a community of geospatial software developers and researchers. Many of these projects are continuously being supported, while others have concluded as part of different grants.
 
-## Operations
-
-- [EVHR](https://github.com/nasa-nccs-hpda/evhr)
+## Table of Contents
+1. [Tutorials](#Tutorials)
+2. [Operations and Tools](#Operations-and-Tools)
 
 ## Tutorials
 
 - [ILAB Jupyter Notebooks](https://github.com/nasa-nccs-hpda/ILAB_JupNotebooks)
 - [ARSET Tutorials](https://github.com/NASAARSET/ARSET_ML_Fundamentals)
+
+## Operations and Tools
+
+- [EVHR](https://github.com/nasa-nccs-hpda/evhr)
+- [SRLite](https://github.com/nasa-nccs-hpda/srlite)
+- [Image Cluster](https://github.com/nasa-nccs-hpda/ImageCluster)
+- [EO Validation](https://github.com/nasa-nccs-hpda/eo-validation)
 
 ## Vegetation Structure
 
