@@ -13,9 +13,10 @@ The NASA GSFC Data Science Group (606.3) ([nasa-nccs-hpda](https://github.com/na
 
 ## Tutorials
 
+- [ARSET Machine Learning Tutorials](https://github.com/NASAARSET/ARSET_ML_Fundamentals)
 - [ILAB Jupyter Notebooks](https://github.com/nasa-nccs-hpda/ILAB_JupNotebooks)
-- [ARSET Tutorials](https://github.com/NASAARSET/ARSET_ML_Fundamentals)
 - [Senegal LCLUC Tutorials](https://github.com/nasa-nccs-hpda/senegal-lcluc-tutorials)
+- [STG Machine Learning Tutorials](https://github.com/nasa-nccs-hpda/STG-Tutorial)
 
 ## Operations and Tools
 
