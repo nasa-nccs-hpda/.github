@@ -27,8 +27,8 @@ The NASA GSFC Data Science Group (606.3) ([nasa-nccs-hpda](https://github.com/na
 
 ## Deep Learning Tools
 
-- [pytorch-caney](https://github.com/nasa-nccs-hpda/pytorch-caney)
-- [tensorflow-caney](https://github.com/nasa-nccs-hpda/tensorflow-caney)
+- [PyTorch Caney](https://github.com/nasa-nccs-hpda/pytorch-caney)
+- [TensorFlow Caney](https://github.com/nasa-nccs-hpda/tensorflow-caney)
 
 ## Vegetation Structure
 
