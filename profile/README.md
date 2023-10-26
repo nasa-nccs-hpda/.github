@@ -25,6 +25,11 @@ The NASA GSFC Data Science Group (606.3) ([nasa-nccs-hpda](https://github.com/na
 - [Image Cluster](https://github.com/nasa-nccs-hpda/ImageCluster)
 - [EO Validation](https://github.com/nasa-nccs-hpda/eo-validation)
 
+## Deep Learning Tools
+
+- [pytorch-caney](https://github.com/nasa-nccs-hpda/pytorch-caney)
+- [tensorflow-caney](https://github.com/nasa-nccs-hpda/tensorflow-caney)
+
 ## Vegetation Structure
 
 - [ABoVE Shrubs](https://github.com/nasa-nccs-hpda/above-shrubs)
