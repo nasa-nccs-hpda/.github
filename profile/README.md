@@ -38,5 +38,6 @@ The NASA GSFC Data Science Group (606.3) ([nasa-nccs-hpda](https://github.com/na
 
 - [Senegal LCLUC](https://github.com/nasa-nccs-hpda/senegal-lcluc-tensorflow)
 - [Ethiopia LCLUC](https://github.com/nasa-nccs-hpda/ethiopia-lcluc-tensorflow)
+- [Vietnam LCLUC](https://github.com/nasa-nccs-hpda/vietnam-lcluc)
 
 
