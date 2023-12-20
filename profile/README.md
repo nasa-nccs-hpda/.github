@@ -22,6 +22,7 @@ The NASA GSFC Data Science Group (606.3) ([nasa-nccs-hpda](https://github.com/na
 
 - [EVHR](https://github.com/nasa-nccs-hpda/evhr)
 - [SRLite](https://github.com/nasa-nccs-hpda/srlite)
+- [VHR-CloudMask](https://github.com/nasa-nccs-hpda/vhr-cloudmask)
 - [Image Cluster](https://github.com/nasa-nccs-hpda/ImageCluster)
 - [EO Validation](https://github.com/nasa-nccs-hpda/eo-validation)
 
