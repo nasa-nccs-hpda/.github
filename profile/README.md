@@ -30,6 +30,7 @@ The NASA GSFC Data Science Group (606.3) ([nasa-nccs-hpda](https://github.com/na
 
 - [PyTorch Caney](https://github.com/nasa-nccs-hpda/pytorch-caney)
 - [TensorFlow Caney](https://github.com/nasa-nccs-hpda/tensorflow-caney)
+- [Pangaea](https://github.com/nasa-nccs-hpda/ilab-pangaea-bench/tree/main/pangaea)
 
 ## Vegetation Structure
 
