@@ -35,6 +35,7 @@ The NASA GSFC Data Science Group (606.3) ([nasa-nccs-hpda](https://github.com/na
 ## Vegetation Structure
 
 - [ABoVE Shrubs](https://github.com/nasa-nccs-hpda/above-shrubs)
+- [DINOv3_CHM](https://github.com/nasa-nccs-hpda/CHM_DINOv3)
 
 ## Land Cover Classification
 
