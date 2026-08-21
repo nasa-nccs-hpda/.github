@@ -26,6 +26,14 @@ The NASA GSFC Data Science Group (606.3) ([nasa-nccs-hpda](https://github.com/na
 - [Image Cluster](https://github.com/nasa-nccs-hpda/ImageCluster)
 - [EO Validation](https://github.com/nasa-nccs-hpda/eo-validation)
 
+## Moon
+
+- [Benchmarking Lunar Foundation Models](https://github.com/nasa-nccs-hpda/lfm)
+
+## Mars
+
+- [MarsCast](https://github.com/nasa-nccs-hpda/GraphCastMars)
+
 ## Deep Learning Tools
 
 - [PyTorch Caney](https://github.com/nasa-nccs-hpda/pytorch-caney)
