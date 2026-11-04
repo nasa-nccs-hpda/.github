@@ -31,13 +31,13 @@ The NASA GSFC Data Science Group (606.3) ([nasa-nccs-hpda](https://github.com/na
 ## Operations and Tools
 
 - [Core](https://github.com/nasa-nccs-hpda/core)
+- [DSG SI Hub](https://github.com/nasa-nccs-hpda/dsg-si-hub)
+- [DSG Template](https://github.com/nasa-nccs-hpda/dsg-template)
 - [EO Validation](https://github.com/nasa-nccs-hpda/eo-validation)
-- [ILAB Agentic AI](https://github.com/nasa-nccs-hpda/ilab-agentic-ai)
 - [ILAB Benchmarking Toolkit](https://github.com/nasa-nccs-hpda/ilab-benchmarking-toolkit)
 - [ILAB Containers](https://github.com/nasa-nccs-hpda/ilab-containers)
 - [ILAB Geoprocessing](https://github.com/nasa-nccs-hpda/ilab-geoproc)
 - [ILAB JupyterHub Management](https://github.com/nasa-nccs-hpda/ilab-jh-management)
-- [ILAB Python Data Science Template](https://github.com/nasa-nccs-hpda/ilab-template-python-data-science)
 - [ILAB Triton](https://github.com/nasa-nccs-hpda/ilab-triton)
 - [Image Cluster](https://github.com/nasa-nccs-hpda/ImageCluster)
 - [Innovation Lab](https://github.com/nasa-nccs-hpda/innovation-lab)
@@ -142,4 +142,3 @@ The NASA GSFC Data Science Group (606.3) ([nasa-nccs-hpda](https://github.com/na
 
 - [MaxEnt](https://github.com/nasa-nccs-hpda/maxent)
 - [Monte Carlo](https://github.com/nasa-nccs-hpda/monte-carlo)
-- [OR0CKY](https://github.com/nasa-nccs-hpda/or0cky)
