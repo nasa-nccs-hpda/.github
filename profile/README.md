@@ -65,6 +65,7 @@ The NASA GSFC Data Science Group (606.3) ([nasa-nccs-hpda](https://github.com/na
 - [FMOrbit](https://github.com/nasa-nccs-hpda/FMOrbit)
 - [GenCast FP](https://github.com/nasa-nccs-hpda/GenCast_FP)
 - [GEOS State Bias](https://github.com/nasa-nccs-hpda/geos_state_bias)
+- [LISF Noah-MP JAX](https://github.com/nasa-nccs-hpda/lisf-noahmp-jax)
 - [MERRA/Max](https://github.com/nasa-nccs-hpda/mmx)
 - [MERRA/Max Development](https://github.com/nasa-nccs-hpda/merramax)
 - [Quantitative Evaluation of Foundation Models](https://github.com/nasa-nccs-hpda/qefm-core)
